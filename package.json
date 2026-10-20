@@ -1,0 +1,26 @@
+{
+  "name": "alwinjhlee",
+  "version": "1.0.0",
+  "description": "web site",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve -l tcp://localhost:58253",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlwinJHLee/alwinjhlee.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "alwin.jh.lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlwinJHLee/alwinjhlee/issues"
+  },
+  "homepage": "https://github.com/AlwinJHLee/alwinjhlee#readme",
+  "dependencies": {
+    "serve": "^14.2.6"
+  }
+}
